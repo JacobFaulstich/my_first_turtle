@@ -28,7 +28,7 @@ mascot_list.insert(correct_index, correct)
 
 print(mascot_list)'''
 
-'''mascot_list = ["Eagles", "Warriors", "Panthers", "Tigers", "Woodmen", "Patriots", "Cougars", "Wildcats", "Knights", "Trojans"]
+mascot_list = ["Eagles", "Warriors", "Panthers", "Tigers", "Woodmen", "Patriots", "Cougars", "Wildcats", "Knights", "Trojans"]
 
 print("The current list is", mascot_list)
  
@@ -53,7 +53,7 @@ mascot_list.pop(swap1_index)
 mascot_list.insert(swap1_index, swap2)
 mascot_list.insert(swap2_index, swap1)
 
-print("The final list is....", mascot_list)'''
+print("The final list is....", mascot_list)
 
 '''bfast_list = ["Waffles", "Pancakes", "French Toast", "Bacon", "Cereal"]
 for food in bfast_list:
